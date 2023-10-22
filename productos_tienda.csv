@@ -1,0 +1,14 @@
+﻿id_producto;nombre;cantidad_disponible;cantidad_vendidos;estado;precio;categoria;ml;tipo;gramos;sabor;tamaño;marca;
+56978;Cola;12;8;Disponible;8;Bebida;200;Energética;;;;;
+13497;Pepsi;15;12;Disponible;12;Bebida;200;Energética;;;;;
+64983;Vino;10;5;Disponible;25;Bebida;250;Con licor;;;;;
+99468;Gatorade;22;18;Disponible;10;Bebida;180;Energética;;;;;
+66579;Agua Pura Salvavidas;30;25;Disponible;3;Bebida;150;Agua pura;;;;;
+98567;Tortrix;15;20;Disponible;2;Snack;;;76;Barbacoa;Individual;;
+45978;Cheetos;12;16;Disponible;2;Snack;;;75;Picante;Individual;;
+65975;Mucho Nacho;5;7;Disponible;10;Snack;;;250;Barbacoa;Familiar;;
+11795;Lay's;12;10;Disponible;3;Snack;;;80;Natural;Individual;;
+97683;Colon Gel Vanish;20;10;Disponible;15;Limpieza;;Detergente;;;;Vanish;
+23976;Jabon;25;15;Disponible;12;Limpieza;;Jabon;;;;Dove;
+44896;Activo Superconcentrado;12;10;Disponible;20;Limpieza;;Detergente;;;;Formil;
+36895;Limpiahogar;5;6;Disponible;25;Limpieza;;Desinfectante;;;;Sanytol;
